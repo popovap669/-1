@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.5">
+  <diagram name="Page-1" id="EqSXlFbOnqVIzxSga_Oo">
+    <mxGraphModel dx="1506" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" adaptiveColors="simple">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="luAnvLzilLBAiKVEDqvy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="luAnvLzilLBAiKVEDqvy-1" target="luAnvLzilLBAiKVEDqvy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="luAnvLzilLBAiKVEDqvy-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b style=&quot;&quot;&gt;Поставщик&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Грузовое транспортное средство;&lt;br&gt;+ Поставка товаров&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Отправить партию&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="luAnvLzilLBAiKVEDqvy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="luAnvLzilLBAiKVEDqvy-2" target="luAnvLzilLBAiKVEDqvy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="luAnvLzilLBAiKVEDqvy-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Склад&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+Вместимость&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Инвентаризация;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Прием товара;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- Списание товара&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="luAnvLzilLBAiKVEDqvy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="luAnvLzilLBAiKVEDqvy-3" target="luAnvLzilLBAiKVEDqvy-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="luAnvLzilLBAiKVEDqvy-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Заказ&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Номер заказа&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Время&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Дата&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Список товаров;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Статус готовности;&lt;br&gt;+ Стоимость&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- Отменить заказ&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="560" y="100" width="150" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="luAnvLzilLBAiKVEDqvy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="luAnvLzilLBAiKVEDqvy-2" target="luAnvLzilLBAiKVEDqvy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="luAnvLzilLBAiKVEDqvy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="luAnvLzilLBAiKVEDqvy-5" target="luAnvLzilLBAiKVEDqvy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="luAnvLzilLBAiKVEDqvy-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Курьер&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Обязанности по доставке товаров&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Назначить маршрут;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Подтвердить доставку&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="830" y="115" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="luAnvLzilLBAiKVEDqvy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="luAnvLzilLBAiKVEDqvy-6" target="luAnvLzilLBAiKVEDqvy-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="luAnvLzilLBAiKVEDqvy-6" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Клиент&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Наличие личного кабинета&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Зарегистрироваться;&lt;br&gt;+ Оставить отзыв;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Сделать заказ&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="830" y="320" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="luAnvLzilLBAiKVEDqvy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="luAnvLzilLBAiKVEDqvy-7" target="luAnvLzilLBAiKVEDqvy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="luAnvLzilLBAiKVEDqvy-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b style=&quot;&quot;&gt;Персональные данные&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ ФИО;&lt;br&gt;+ Адрес;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Номер телефона&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Запросить изменения&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="830" y="490" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="luAnvLzilLBAiKVEDqvy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.613;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="luAnvLzilLBAiKVEDqvy-6" target="luAnvLzilLBAiKVEDqvy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="luAnvLzilLBAiKVEDqvy-15" value="поставка товаров" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="190" y="140" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="luAnvLzilLBAiKVEDqvy-16" value="сборка заказа" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="140" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="luAnvLzilLBAiKVEDqvy-17" value="передача заказа&lt;div&gt;для доставки&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="luAnvLzilLBAiKVEDqvy-18" value="доставка" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="910" y="260" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
